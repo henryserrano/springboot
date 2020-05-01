@@ -26,6 +26,8 @@ import com.bolsadeideas.springboot.app.models.service.IClienteService;
 @Controller
 @RequestMapping("factura")
 @SessionAttributes("factura")
+
+	//Probando git hub desde eclipse
 public class FacturaController {
 
 	@Autowired
